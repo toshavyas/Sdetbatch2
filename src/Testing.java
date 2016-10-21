@@ -10,6 +10,7 @@ System.out.println("Addition is: "+add(10,40));
 }
 
 public static int add(int a, int b){
+	System.out.println("Thsis is new line...");
 	return a+b;
 	
 }
