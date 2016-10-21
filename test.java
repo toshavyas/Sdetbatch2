@@ -1,4 +1,4 @@
-package com.tosha
+package com.tosha;
 
 public class test(){
 private int a=10;
